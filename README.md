@@ -21,7 +21,7 @@ FastAPI-сервис для скрапинга веб-страниц, подсч
 ### 1. Клонирование репозитория
 
 ```bash
-git clone <URL_репозитория>
+git clone https://github.com/rerqaa/test_task_scraper.git
 cd Test_task
 ```
 
